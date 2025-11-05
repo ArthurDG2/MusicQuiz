@@ -1,0 +1,68 @@
+{
+    "questions": [
+        {
+        "image": "https://talkaboutpopmusic.com/wp-content/uploads/2020/11/12.02.top10uk-1.jpg?w=1459&h=729&crop=1",
+        "title": "Qual o álbum mais vendido da história?",
+        "description": "Considere somente até o ano de 2025",
+        "alternatives": [
+            "Thriller (Michael Jackson)",
+            "Led Zeppelin IV (Led Zeppelin)",
+            "Back in Black (AC/DC)",
+            "The Dark Side of the Moon (Pink Floyd)"
+    ],
+    "anwser": "0"
+    },
+
+    {
+        "image": "https://img.goodfon.com/original/1920x1200/4/9b/beatls-bitlz-rok-muzyka.jpg",
+        "title": "Quais os nomes dos integrantes da banda the beatles?",
+        "description": "Considere somente até o ano de 2025",
+        "alternatives": [
+            "Jimmy Page, Robert Plant, George Harrison e Ringo Starr",
+            "John Lennon, Paul McCartney, George Harrison e Ringo Starr",
+            "John Lennon, Paul McCartney, George Harrison e Roger Waters",
+            "John Lennon, Paul McCartney, David Gilmore e Ringo Starr"
+    ],
+    "anwser": "1"
+    },
+
+    {
+        "image": "https://static.todamateria.com.br/upload/bo/ss/bossa-nova-og.jpg",
+        "title": "Qual artista brasileiro é famoso pela música 'Chega de Saudade'?",
+        "description": "Considere somente até o ano de 2025",
+        "alternatives": [
+            "Chico Buarque",
+            "Tim Maia",
+            "Caetano Veloso",
+            "João Gilberto"
+    ],
+    "anwser": "3"
+    },
+
+    {
+        "image": "https://igormiranda.com.br/wp-content/uploads/2023/08/pink-floyd-the-wall-brick.jpg",
+        "title": "Qual banda de rock britânica icônica lançou o álbum 'The Wall' em 1979?",
+        "description": "Considere somente até o ano de 2025",
+        "alternatives": [
+            "The Rolling Stones",
+            "Led Zeppelin",
+            "Pink Floyd",
+            "The Beatles"
+    ],
+    "anwser": "2"
+    },
+
+    {
+        "image": "https://imprevistosmusicais.com.br/wp-content/uploads/2021/03/tropicalismo-e-a-moda-IM-Thais-Gama-1536x1018.jpg",
+        "title": "Qual o movimento brasileiro dos anos 60 que misturou rock e psicodelia com a cultura nacional?",
+        "description": "Considere somente até o ano de 2025",
+        "alternatives": [
+            "Jovem Guarda",
+            "Tropicalismo",
+            "Axé Music",
+            "Clube da Esquina"
+    ],
+    "anwser": "1"
+    }
+    ]
+}
